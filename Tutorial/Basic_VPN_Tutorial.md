@@ -43,7 +43,7 @@
 
 2. Next we install outline VPN server in docker. Execute the following commands one by one in the console.  
 
-    1. `` sudo — sh -c ‘apt-get update; apt-get upgrade -y; apt-get dist-upgrade -y; apt-get autoremove -y; apt-get autoclean -y’ ``  
+    1. `` sudo -- sh -c 'apt-get update; apt-get upgrade -y; apt-get dist-upgrade -y; apt-get autoremove -y; apt-get autoclean -y' ``  
 
     2. ``sudo curl -sS https://get.docker.com/ | sh``  
 
